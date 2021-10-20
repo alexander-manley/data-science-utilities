@@ -1,5 +1,9 @@
 # data-science-utilities
 Utility tooling to facilitate MLOps
 
-Virtual Machine conversion (OVA to VHD):
+Free virtual machine conversion (OVA to VHD VMs):
 https://www.starwindsoftware.com/v2v-converter-release-notes
+
+Free Enterprise docker image management (250+ users)
+https://github.com/containerd/nerdctl
+
