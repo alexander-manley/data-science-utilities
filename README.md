@@ -1,4 +1,4 @@
-# Utility tooling to facilitate MLOps
+# Utility tooling to facilitate Machine Learning Operations (MLOps)
 
 Free virtual machine conversion (OVA to VHD VMs):
 
