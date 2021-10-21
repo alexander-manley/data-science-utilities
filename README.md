@@ -8,7 +8,7 @@ Docker image management (Free for 250+ users):
 
 ***https://github.com/containerd/nerdctl***
 
-Kubernetes desktop deployement (Free for 250+ users):
+Kubernetes desktop deployement (Free for 250+ users, similar to K3d, k3s, Kind, Microk8s, or Minikube):
 
 ***https://github.com/rancher-sandbox/rancher-desktop/releases***
 
