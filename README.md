@@ -12,3 +12,6 @@ https://github.com/rancher-sandbox/rancher-desktop/releases
 
 Code instrumentation for timings, memory, locks waits, usage, context switches, functions enter/leave, exceptions, garbage collection runs, and coroutines:
 https://github.com/dfeneyrou/palanteer/releases
+
+Python codebase UML diagram generation (pyreverse):
+https://pypi.org/project/pylint/#history
