@@ -24,6 +24,6 @@ Docker image size reduction:
 
 ***https://github.com/docker-slim/docker-slim/releases***
 
-Whole python code repository benchmarking:
+Whole python code repository performance benchmarking:
 
 ***https://github.com/nicholasjng/pybm/blob/master/examples/sum-example.md***
