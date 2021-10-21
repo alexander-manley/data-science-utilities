@@ -18,3 +18,6 @@ https://pypi.org/project/pylint/#history
 
 Docker image size reduction:
 https://github.com/docker-slim/docker-slim/releases
+
+Whole python code repository benchmarking:
+https://github.com/nicholasjng/pybm/blob/master/examples/sum-example.md
