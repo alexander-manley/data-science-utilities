@@ -12,7 +12,7 @@ Kubernetes desktop deployement (Free for 250+ users, similar to K3d, k3s, Kind, 
 
 ***https://github.com/rancher-sandbox/rancher-desktop/releases***
 
-Code instrumentation for timings, memory, locks waits, usage, context switches, functions enter/leave, exceptions, garbage collection runs, and coroutines:
+Code instrumentation for Python & C++ timings, memory, locks waits, usage, context switches, functions enter/leave, exceptions, garbage collection runs, and coroutines:
 
 ***https://github.com/dfeneyrou/palanteer/releases***
 
