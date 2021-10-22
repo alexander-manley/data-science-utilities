@@ -27,3 +27,8 @@ Docker image size reduction:
 Whole python code repository performance benchmarking:
 
 ***https://github.com/nicholasjng/pybm/blob/master/examples/sum-example.md***
+
+![scope1](https://user-images.githubusercontent.com/4974054/138390158-4314b253-8973-4126-bf73-f2e4312980ea.png)
+![scope2](https://user-images.githubusercontent.com/4974054/138390163-52be90a2-54c6-4258-8671-51c0851ac4f6.png)
+![scope3](https://user-images.githubusercontent.com/4974054/138390171-18fd9131-3991-4763-a6ee-203e90b002b9.png)
+
